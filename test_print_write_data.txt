@@ -1,0 +1,4 @@
+test python function to write data to the open file.
+test enter 1 line
+test enter 2 line
+test enter 3 line
