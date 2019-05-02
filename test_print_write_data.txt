@@ -1,0 +1,6 @@
+1  test python function to write data to the open file.
+2  test python function to write data to the open file.
+test python function to write data to the open file.
+test python function to write data to the open file.
+test python function to write data to the open file.
+test python function to write data to the open file.
