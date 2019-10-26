@@ -1,1 +1,2 @@
 This is a test file.
+测试使用中文输入。
